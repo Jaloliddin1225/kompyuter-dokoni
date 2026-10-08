@@ -1,0 +1,6 @@
+{
+  "name": "PCForge - Kompyuter va Noutbuklar Do'koni",
+  "description": "Zamonaviy kompyuter va noutbuklar do'koni. PC Builder, moslik tekshiruvi va Gemini AI maslahatchisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
